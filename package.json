@@ -1,6 +1,6 @@
 {
   "name": "vue-context-provider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a component for vue3, the component's behavior like react context component.",
   "main": "./dist/main.cjs.js",
   "types": "./dist/main.d.ts",
